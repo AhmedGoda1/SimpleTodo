@@ -1,5 +1,5 @@
 # SimpleTodo
-
+Please note that this app is done with the assistance of AI in some parts.
 A simple to-do list Android app built with **Kotlin** and **Jetpack Compose** for my IT assignment.
 
 ## Features
